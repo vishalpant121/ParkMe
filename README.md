@@ -8,10 +8,11 @@ avoiding unnecessary wastage of time in finding appropriate parking space for yo
 
 The application is not stand-alone. The application is targeted for devices having Android Marshmello or above.
 
-## Technical skills used
-Java
-Android
-Firebase
+## Technical Stack
+Kotlin v1.3
+Firebase Realtime DB, Authentication
+SharedPreference for login Details
+AndroidX
 
 ### Flow Diagram
 
